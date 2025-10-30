@@ -14,13 +14,27 @@ Goal: Quickly check current and upcoming weather before planning outdoor activit
 🚀 Features
 
 ✅ Instant City Search – Search weather data for any city worldwide using the built-in search bar.
+
+
 ✅ Real-Time Weather Data – Displays temperature, wind speed, humidity, visibility, and pressure.
+
+
 ✅ 7-Day Forecast – See upcoming weather trends (max/min temperature, icons, and conditions).
+
+
 ✅ Automatic Default City – Automatically shows weather for Hyderabad on load (you can change it).
+
 ✅ Dynamic Weather Icons & Descriptions – Displays emojis representing actual weather conditions.
+
+
 ✅ Responsive Design – Optimized layout for desktop and mobile devices.
+
+
 ✅ Smooth Loading State & Error Handling – Friendly messages if a city is not found or data fails to load.
+
+
 ✅ Modern UI with Ant Design – Clean and visually appealing interface using the Ant Design component library.
+
 
 🧩 Tech Stack
 Category	Technology

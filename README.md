@@ -38,12 +38,19 @@ Goal: Quickly check current and upcoming weather before planning outdoor activit
 
 🧩 Tech Stack
 Category	Technology
+
 Frontend Framework	React (Hooks & Functional Components)
+
 UI Library	Ant Design (antd)
+
 Icons	Ant Design Icons
+
 API	Open-Meteo API (Free & No Key Required)
+
 Styling	Custom CSS + Inline Styling
+
 Hosting	CodeSandbox / GitHub Pages (free deployment)
+
 ⚙️ Installation & Setup
 
 Follow these steps to run the project locally:
@@ -60,8 +67,7 @@ npm start
 
 4️⃣ Open in Browser
 
-Go to:
-👉 http://localhost:3000
+
 
 🔗 API Reference
 🌍 Geocoding API (to get latitude & longitude)
@@ -115,10 +121,16 @@ Working with real-world weather APIs and data formatting.
 🔹 Add charts for temperature trends.
 🔹 Provide night/day theme for accessibility.
 
+🌤️ Live Demo
+Check out the live version here:
+👉[https://trqf5f-5173.csb.app/](url)
+
 🧑‍💻 Author
 
 Developed by: Chandana Utla
 Role: Frontend Developer / React Enthusiast
 Contact: chandanautla101@gmail.com
 
-GitHub: https://github.com/Chandana-utla/WeatherNow/
+GitHub:  https://github.com/Chandana-utla/WeatherNow.git
+
+

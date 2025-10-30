@@ -1,15 +1,14 @@
 🌤️ Weather Now
 Check real-time weather conditions and 7-day forecasts for any city.
+
+
 📘 Overview
 
 Weather Now is a React-based web application built for Jamie, an outdoor enthusiast who wants to check current weather conditions quickly and plan activities accordingly.
 
 The app uses the Open-Meteo API to fetch live weather data, including temperature, humidity, visibility, pressure, and an extended 7-day forecast.
 
-👤 User Persona
 
-Name: Jamie
-Occupation: Outdoor Enthusiast
 Goal: Quickly check current and upcoming weather before planning outdoor activities such as hiking, cycling, or camping.
 
 🚀 Features
